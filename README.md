@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Cuidando do Seu Bem-Estar Mental</h1>
+        <h1>Priorizando o Seu Bem-Estar Mental</h1>
     </header>
     <section id="about">
         <h2>Sobre Nós</h2>
