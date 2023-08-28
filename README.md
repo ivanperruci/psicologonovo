@@ -11,8 +11,8 @@
         <h1>Priorizando o Seu Bem-Estar Mental</h1>
     </header>
     <section id="about">
-        <h2>Sobre Nós</h2>
-        <p>Sou um psicólogo dedicado a auxiliar você a lidar com desafios emocionais, oferecendo um espaço seguro para conversar e crescer.</p>
+        <h2>Sobre Klber alves de souza </h2>
+        <p>Como psicólogo comprometido, estou aqui para ajudar você a enfrentar desafios emocionais, proporcionando um ambiente seguro onde você pode compartilhar, dialogar e crescer.</p>
     </section>
     <section id="services">
         <h2>Nossos Serviços</h2>
