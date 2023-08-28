@@ -11,8 +11,14 @@
         <h1>Priorizando o Seu Bem-Estar Mental</h1>
     </header>
     <section id="about">
-        <h2>Sobre Klber alves de souza </h2>
+        <h2>Sobre Kleber alves de souza </h2>
         <p>Como psicólogo comprometido, estou aqui para ajudar você a enfrentar desafios emocionais, proporcionando um ambiente seguro onde você pode compartilhar, dialogar e crescer.</p>
+        </header>
+    <section id="about">
+        <h2>Experiência Profissional </h2>
+        <p>Realização de avaliações psicológicas para diagnosticar questões de saúde mental.</p>
+        <p>Prestação de psicoterapia individual e em grupo, adaptada às necessidades dos pacientes.</p>
+        <p>Desenvolvimento e implementação de planos de tratamento personalizados</p>
     </section>
     <section id="services">
         <h2>Nossos Serviços</h2>
@@ -26,10 +32,10 @@
     <section id="benefits">
         <h2>Vantagens e Benefícios</h2>
         <ul>
-            <li>Abordagem Confidencial e Empática</li>
-            <li>Experiência em Diversos Campos da Psicologia</li>
-            <li>Atendimento Flexível (Presencial e Online)</li>
-            <li>Desenvolvimento Pessoal e Autoconhecimento</li>
+            <li>Experiência Profissional: Nossa equipe é composta por profissionais altamente qualificados e experientes, prontos para oferecer orientação especializada em seu ramo de negócio.</li>
+            <li>Atendimento Flexível: Compreendemos a importância da conveniência. Oferecemos horários flexíveis e opções de atendimento presencial e online para se adequar à sua agenda</li>
+            <li>Soluções Sob Medida: Trabalhamos em estreita colaboração com você para desenvolver soluções sob medida que abordem seus desafios exclusivos e ajudem a alcançar seus objetivos.</li>
+            <li>Suporte Contínuo: Nossa dedicação não termina com a conclusão de um projeto. Estamos comprometidos em fornecer suporte contínuo para garantir seu sucesso a longo prazo.</li>
         </ul>
     </section>
     <section id="contact">
