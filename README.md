@@ -42,15 +42,15 @@
         <h2>Entre em Contato</h2>
         <p>Entre em contato para agendar uma consulta e dar o primeiro passo em direção ao seu bem-estar emocional.</p>
         <form action="#" method="post">
-            <label for="name">Nome:</label>
-            <input type="text" id="name" name="name" required>
-            <label for="email">E-mail:</label>
+            <label for="name">Nome:Kleber alves de souza</label>
+            <input type="text" id="Kleber alves de souza" name="name" required>
+            <label for="email">E-mail:kleber.alvespsi@gmail.com</label>
             <input type="email" id="email" name="email" required>
             <button type="submit">Enviar</button>
         </form>
     </section>
     <footer>
-        <p>&copy; 2023 Psicólogo. Todos os direitos reservados.</p>
+        <p>&copy; 2023 Kleber A. souza. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
